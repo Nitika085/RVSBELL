@@ -145,3 +145,6 @@ This way, the API serves as a bridge between the MySQL database and any frontend
 ## Summary
 
 This project is a **mini accounting backend**. It keeps track of customers, invoices, and payments. The Flask APIs let you query this data easily, so it can be used to build dashboards or reports.
+
+## Update
+This line was added in the feature branch.
